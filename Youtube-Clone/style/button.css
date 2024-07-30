@@ -1,0 +1,122 @@
+
+.Subscribe-button
+{
+background-color :red;
+color : white;
+border : none;
+height: 30px;
+width: 100px;
+border-radius:3px ;
+cursor: pointer;
+
+
+
+}
+    
+    .join{
+    background-color :rgb(255, 255, 255) ;
+    border-color: rgb(53, 109, 144);
+    border-style: solid;
+    border-width: 1px;
+    color:rgb(53, 109, 144) ;
+    height: 30px;
+    width: 50px;
+    border-radius:3px;
+    margin-left: 8px;
+    cursor: pointer;
+
+    }
+    .tweet{
+        background-color: rgb(14, 133, 212);
+        border-color: rgb(14, 133, 212);
+        color: white;
+        border:none;
+        height: 30px;
+        width:70px;
+        border-radius:15px; 
+        margin-left: 8px;
+        font-weight:bold;
+        cursor: pointer;
+
+    }
+    .Request{
+        background-color: black;
+        color: white;
+        border:none;
+        height: 30px;
+        width: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        cursor: pointer;
+    }
+    .Add {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        border:none;
+        height: 30px;
+        width: 150px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+    .Signup{
+        background-color:rgb(46, 164, 79);
+        color: white;
+        border:none;
+        height: 30px;
+        width: 80px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        cursor: pointer;
+        border-radius: 6px;
+        font-weight: bold;
+    }
+    .Getstarted{
+        background-color: rgb(121, 82, 179);
+        color: white;
+        border:none;
+        height: 30px;
+        width: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        cursor: pointer;
+    }
+    .download{
+        background-color:white ;
+        color:rgb(108, 117, 125);
+        border:solid;
+        border-width: 2px;
+        height: 30px;
+        width: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 8px;
+        cursor: pointer;
+    }
+
+    .Apply{
+        background-color: rgb(10, 102,194);
+        color: white;
+        border:none;
+        height: 30px;
+        width: 200px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+    .Save{
+        background-color:white;
+        color: rgb(10, 102,194);
+        border:solid;
+        height: 30px;
+        width: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        cursor: pointer;
+        border-width: 2px;
+        border-radius: 15px;
+        font-weight: bold;
+    }
+    
